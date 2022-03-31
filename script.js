@@ -45,7 +45,7 @@ document.querySelector('.check').addEventListener('click', function() {
       ? 'Number is too high!'
       :
 
-        'Number is too high!'
+        1'Number is too high!'
     )
   }
 });
